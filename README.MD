@@ -68,5 +68,5 @@ python3 -m user.cli
 Menjalankan test:
 
 ```bash
-python3 -m pytest test/unit/test_rules.py
+python3 -m pytest
 ```
